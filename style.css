@@ -1,0 +1,84 @@
+
+
+    
+
+
+
+
+
+.bg-3 {
+	background-color: black;
+	color: white;
+	
+}
+
+p {font-size: 25px;}
+
+
+.h3-sm1 {
+	font-size: 300px;
+	padding-top: 12px;
+}
+.bg-1 {
+	background-color:  skyblue;
+	color: white;
+
+
+}
+.img-circle{
+	border-radius: 50%;
+}
+.bg-2 {
+	background-color:  #474e5d;
+	color: white;
+	 text-transform: uppercase;
+	 font-size: 30px;
+}
+.container-fluid {
+	padding-top: 70px;
+	padding-bottom: 70px;
+	line-height: 40px;
+
+}
+.btn-lg {
+	color: black;
+	background-color: white;
+}
+.row {
+	border-radius: 50%;
+}
+.responsive {
+
+
+width: 100%;
+  height: auto;
+}
+.img-responsive {
+	height: 350;
+	width: 350;
+	border: 1px solid #ddd; /* Gray border */
+  border-radius: 4px;  /* Rounded border */
+  padding: 5px; /* Some padding */
+   /* Set a small width */
+}
+.navbar {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-size: 20px;
+	letter-spacing: 5px;
+}
+.bg-4 {
+	background-color: black;
+	padding: 20px;
+	color: white;
+}
+h1 {
+	font-size: 200px;
+}
+.row {
+	color: grey;
+}
+.col-md-4 {
+	background-color: black;
+}
+.C
